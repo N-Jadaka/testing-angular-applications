@@ -19,5 +19,7 @@ fdescribe('Chapter02Component', () => {
     fixture.detectChanges();
   });
 
+  console.log('Test');
+
 
 });
